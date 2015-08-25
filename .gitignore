@@ -41,3 +41,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/desktop_app/build/
+/desktop_app/nbproject/private/
+*.jpg
